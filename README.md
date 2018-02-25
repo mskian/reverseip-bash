@@ -1,6 +1,6 @@
 # Reverse IP Lookup CLI
 
-<href="https://github.com/mskian/reverseip-bash/blob/master/LICENSE" title="License: GPL"><img src="https://img.shields.io/badge/License-MIT-orange.svg"></a>
+<a target="_blank" href="https://github.com/mskian/cutoff-bash/blob/master/LICENSE" title="License: GPL"><img src="https://img.shields.io/badge/License-MIT-orange.svg"></a>
 
 Reverse IP Lookup - Simple Shell script to Find the Domains which Hosted on Same IP.
 
