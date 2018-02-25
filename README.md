@@ -12,7 +12,7 @@ Reverse IP Lookup - Simple Shell script to Find the Domains which Hosted on Same
 - cURL
 - jq (`sudo apt install jq`)
 
-For Termux Android Emulator install cURL, jq & git packages
+Using this Tool on Termux Emulator? install cURL, jq & git packages
 
 ## How to use?
 
@@ -31,12 +31,14 @@ ls
 chmod +x reverseip.sh
 ```
 
-- Open reverseip.sh & add your viewdns.info API Key & save the file
+- Open `reverseip.sh` File - add your viewdns.info API Key & save it
 - Execute the Script
 
 ```
 ./reverseip.sh
 ```
+
+PS: You can use this Tool Android device by Using Termux Terminal Emulator for Android
 
 ## License
 
